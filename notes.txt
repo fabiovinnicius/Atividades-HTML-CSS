@@ -1,1 +1,34 @@
-...
+HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores.
+
+HT= Hypertext
+ML= Markup Language
+
+Em informática, uma linguagem de marcação é um conjunto de sinais aplicados nos textos ou em dados para definir sua configuração e aparência em uma página web.
+
+O corpo básico de um HTML é 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+Atualmente não é mais necessário decorar o corpo básico de um HTML, pois nas IDE atuais basta digitar o comando 'HTML: 5' para clonar o corpo sem muita dificildade.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Como a linguagem usa marcações para se orientar, devemos ter noção de algumas marcações básicas para começar a estruturar um site.
+
+
+<head></head> Todas as funções que compõe o site estarão dentro desta marcação, mas nem todas elas irão aparecer, como por exemplo o tamanho total do site na tela do usuário.
+<body></body> Toda a parte visual estára encorporada nesta marcação, desde imagem, textos, links e etc.
+<title></title> Aqui será o título do seu site, onde irá aparecer na aba do navegador do usuário, deve ser algo simples e rápido, como um nome de uma marca.
+<h1></h1> Uma tag de conteúdo que tem a função de cabeçalho, normalmente pode ser usado para título porém só aparecerá no corpo do HTML.
+<p></p> Tag de conteúdo com função de parágrafo, normalmente usado para paragrafação ou para texto com mais informações que não precisam de tanto destaque.
+<br></br> Tag usada para quebrar parágrafos para evitar o uso de várias tags '<p></p>', com está função você pode quebrar uma linha onde ache necessário.

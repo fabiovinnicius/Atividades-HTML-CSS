@@ -32,3 +32,4 @@ Como a linguagem usa marcações para se orientar, devemos ter noção de alguma
 <h1></h1> Uma tag de conteúdo que tem a função de cabeçalho, normalmente pode ser usado para título porém só aparecerá no corpo do HTML.
 <p></p> Tag de conteúdo com função de parágrafo, normalmente usado para paragrafação ou para texto com mais informações que não precisam de tanto destaque.
 <br></br> Tag usada para quebrar parágrafos para evitar o uso de várias tags '<p></p>', com está função você pode quebrar uma linha onde ache necessário.
+<img></img> Tag usada para inserir imagem, podendo ser editada com 'width' e 'height'. Pode ser usada crian uma pasta, subpasta ou usando o link da imagem.
